@@ -1,0 +1,50 @@
+{
+  "feature_dim": 5122,
+  "feature_layout": {
+    "wt_embedding": [
+      0,
+      1280
+    ],
+    "mutant_embedding": [
+      1280,
+      5120
+    ],
+    "wt_present_flag": 5120,
+    "mutant_present_flag": 5121
+  },
+  "functional": {
+    "file": "functional.joblib",
+    "sha256": "8aac2d28e2184fd804a521f2fc11d903d44028e4cb6c0e9ce5749f71d7831191",
+    "steps": [
+      "StandardScaler",
+      "KernelPCA(n_components=48, kernel=rbf)",
+      "SVC(C=1, kernel=rbf, probability=True)"
+    ],
+    "threshold": 0.7600000000000003,
+    "labels": {
+      "0": "functional",
+      "1": "less functional"
+    }
+  },
+  "temperature": {
+    "file": "temperature_halfmax.joblib",
+    "sha256": "5358b091459cf8881f69c4d053522d73e26201b746aad30a23a56096b3b377b1",
+    "steps": [
+      "StandardScaler",
+      "PCA(n_components=8)",
+      "SVR(C=80, epsilon=0.5, kernel=rbf)"
+    ],
+    "endpoint": "halfmax",
+    "unit": "degrees Celsius"
+  },
+  "serialized_sklearn_version": "1.7.2",
+  "verified_runtime": {
+    "python": "3.13.9",
+    "numpy": "2.3.5",
+    "scipy": "1.16.3",
+    "scikit_learn": "1.7.2",
+    "joblib": "1.5.2",
+    "threadpoolctl": "3.5.0"
+  },
+  "weights_copied_without_refitting": true
+}

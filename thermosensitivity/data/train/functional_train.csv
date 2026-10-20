@@ -1,0 +1,889 @@
+name,protein,species,variant,label,target,train_eligible
+TRPV1_RAT_F638I,TRPV1,Rattus norvegicus,F638I,less functional,1,1
+TRPV1_RAT_D89G,TRPV1,Rattus norvegicus,D89G,less functional,1,1
+TRPV1_RAT_F148L,TRPV1,Rattus norvegicus,F148L,functional,0,1
+TRPV1_RAT_V482A,TRPV1,Rattus norvegicus,V482A,less functional,1,1
+TRPV1_RAT_V508A,TRPV1,Rattus norvegicus,V508A,less functional,1,1
+TRPV1_RAT_E397G,TRPV1,Rattus norvegicus,E397G,less functional,1,1
+TRPV1_RAT_R717S,TRPV1,Rattus norvegicus,R717S,less functional,1,1
+TRPV1_RAT_G241W,TRPV1,Rattus norvegicus,G241W,functional,0,1
+TRPV1_RAT_N167K,TRPV1,Rattus norvegicus,N167K,less functional,1,1
+TRPV1_RAT_I573V,TRPV1,Rattus norvegicus,I573V,less functional,1,1
+TRPV1_RAT_D276Y,TRPV1,Rattus norvegicus,D276Y,less functional,1,1
+TRPV1_RAT_N191D,TRPV1,Rattus norvegicus,N191D,less functional,1,1
+TRPV1_RAT_T195A,TRPV1,Rattus norvegicus,T195A,less functional,1,1
+TRPV1_RAT_L216Q,TRPV1,Rattus norvegicus,L216Q,less functional,1,1
+TRPV1_RAT_K688R,TRPV1,Rattus norvegicus,K688R,functional,0,1
+TRPV1_RAT_S505G,TRPV1,Rattus norvegicus,S505G,less functional,1,1
+TRPV1_RAT_M568V,TRPV1,Rattus norvegicus,M568V,less functional,1,1
+TRPV1_RAT_V179I,TRPV1,Rattus norvegicus,V179I,less functional,1,1
+TRPV1_RAT_F649L,TRPV1,Rattus norvegicus,F649L,functional,0,1
+TRPV1_RAT_Y555C,TRPV1,Rattus norvegicus,Y555C,less functional,1,1
+TRPV1_RAT_F489S,TRPV1,Rattus norvegicus,F489S,less functional,1,1
+TRPV1_RAT_I705T,TRPV1,Rattus norvegicus,I705T,less functional,1,1
+TRPV1_RAT_F436D,TRPV1,Rattus norvegicus,F436D,less functional,1,1
+TRPV1_RAT_R409S,TRPV1,Rattus norvegicus,R409S,functional,0,1
+TRPV1_RAT_Q127L,TRPV1,Rattus norvegicus,Q127L,functional,0,1
+TRPV1_RAT_T239A,TRPV1,Rattus norvegicus,T239A,functional,0,1
+TRPV1_RAT_P835T,TRPV1,Rattus norvegicus,P835T,less functional,1,1
+TRPV1_RAT_L713P,TRPV1,Rattus norvegicus,L713P,less functional,1,1
+TRPV1_RAT_L725P,TRPV1,Rattus norvegicus,L725P,less functional,1,1
+TRPV1_RAT_M568T,TRPV1,Rattus norvegicus,M568T,less functional,1,1
+TRPV1_RAT_G723D,TRPV1,Rattus norvegicus,G723D,less functional,1,1
+TRPV1_RAT_F640I,TRPV1,Rattus norvegicus,F640I,less functional,1,1
+TRPV1_RAT_I387T,TRPV1,Rattus norvegicus,I387T,less functional,1,1
+TRPV1_RAT_L574H,TRPV1,Rattus norvegicus,L574H,less functional,1,1
+TRPV1_RAT_E600V,TRPV1,Rattus norvegicus,E600V,less functional,1,1
+TRPV1_RAT_R138W,TRPV1,Rattus norvegicus,R138W,less functional,1,1
+TRPV1_RAT_T153S,TRPV1,Rattus norvegicus,T153S,less functional,1,1
+TRPV1_RAT_D100G,TRPV1,Rattus norvegicus,D100G,functional,0,1
+TRPV1_RAT_L607P,TRPV1,Rattus norvegicus,L607P,less functional,1,1
+TRPV1_RAT_A799V,TRPV1,Rattus norvegicus,A799V,functional,0,1
+TRPV1_RAT_D113V,TRPV1,Rattus norvegicus,D113V,less functional,1,1
+TRPV1_RAT_Y554H,TRPV1,Rattus norvegicus,Y554H,less functional,1,1
+TRPV1_RAT_E249V,TRPV1,Rattus norvegicus,E249V,less functional,1,1
+TRPV1_RAT_D831Y,TRPV1,Rattus norvegicus,D831Y,less functional,1,1
+TRPV1_RAT_R355M,TRPV1,Rattus norvegicus,R355M,functional,0,1
+TRPV1_RAT_F304S,TRPV1,Rattus norvegicus,F304S,less functional,1,1
+TRPV1_RAT_C766R,TRPV1,Rattus norvegicus,C766R,less functional,1,1
+TRPV1_RAT_E709D,TRPV1,Rattus norvegicus,E709D,less functional,1,1
+TRPV1_RAT_D646Y,TRPV1,Rattus norvegicus,D646Y,functional,0,1
+TRPV1_RAT_R743M,TRPV1,Rattus norvegicus,R743M,functional,0,1
+TRPV1_RAT_I493V,TRPV1,Rattus norvegicus,I493V,less functional,1,1
+TRPV1_RAT_L252Q,TRPV1,Rattus norvegicus,L252Q,less functional,1,1
+TRPV1_RAT_I314N,TRPV1,Rattus norvegicus,I314N,less functional,1,1
+TRPV1_RAT_I668T,TRPV1,Rattus norvegicus,I668T,less functional,1,1
+TRPV1_RAT_I312N,TRPV1,Rattus norvegicus,I312N,less functional,1,1
+TRPV1_RAT_S193C,TRPV1,Rattus norvegicus,S193C,functional,0,1
+TRPV1_RAT_I328T,TRPV1,Rattus norvegicus,I328T,less functional,1,1
+TRPV1_RAT_G316V,TRPV1,Rattus norvegicus,G316V,functional,0,1
+TRPV1_RAT_V377A,TRPV1,Rattus norvegicus,V377A,less functional,1,1
+TRPV1_RAT_R138M,TRPV1,Rattus norvegicus,R138M,less functional,1,1
+TRPV1_RAT_E767D,TRPV1,Rattus norvegicus,E767D,functional,0,1
+TRPV1_RAT_K698R,TRPV1,Rattus norvegicus,K698R,less functional,1,1
+TRPV1_RAT_Q260L,TRPV1,Rattus norvegicus,Q260L,less functional,1,1
+TRPV1_RAT_E10D,TRPV1,Rattus norvegicus,E10D,less functional,1,1
+TRPV1_RAT_N748I,TRPV1,Rattus norvegicus,N748I,less functional,1,1
+TRPV1_RAT_M682I,TRPV1,Rattus norvegicus,M682I,functional,0,1
+TRPV1_RAT_L414I,TRPV1,Rattus norvegicus,L414I,less functional,1,1
+TRPV1_RAT_P623Q,TRPV1,Rattus norvegicus,P623Q,less functional,1,1
+TRPV1_RAT_N285D,TRPV1,Rattus norvegicus,N285D,less functional,1,1
+TRPV1_RAT_M523T,TRPV1,Rattus norvegicus,M523T,less functional,1,1
+TRPV1_RAT_P608H,TRPV1,Rattus norvegicus,P608H,less functional,1,1
+TRPV1_RAT_P64H,TRPV1,Rattus norvegicus,P64H,functional,0,1
+TRPV1_RAT_F438L,TRPV1,Rattus norvegicus,F438L,functional,0,1
+TRPV1_RAT_D762Y,TRPV1,Rattus norvegicus,D762Y,functional,0,1
+TRPV1_RAT_E824G,TRPV1,Rattus norvegicus,E824G,functional,0,1
+TRPV1_RAT_E56D,TRPV1,Rattus norvegicus,E56D,less functional,1,1
+TRPV1_RAT_T218S,TRPV1,Rattus norvegicus,T218S,less functional,1,1
+TRPV1_RAT_G836V,TRPV1,Rattus norvegicus,G836V,functional,0,1
+TRPV1_RAT_M716R,TRPV1,Rattus norvegicus,M716R,less functional,1,1
+TRPV1_RAT_G344W,TRPV1,Rattus norvegicus,G344W,functional,0,1
+TRPV1_RAT_A71V,TRPV1,Rattus norvegicus,A71V,less functional,1,1
+TRPV1_RAT_I76F,TRPV1,Rattus norvegicus,I76F,less functional,1,1
+TRPV1_RAT_R367M,TRPV1,Rattus norvegicus,R367M,less functional,1,1
+TRPV1_RAT_G683S,TRPV1,Rattus norvegicus,G683S,less functional,1,1
+TRPV1_RAT_K187R,TRPV1,Rattus norvegicus,K187R,less functional,1,1
+TRPV1_RAT_S116G,TRPV1,Rattus norvegicus,S116G,less functional,1,1
+TRPV1_RAT_K535E,TRPV1,Rattus norvegicus,K535E,less functional,1,1
+TRPV1_RAT_M677L,TRPV1,Rattus norvegicus,M677L,less functional,1,1
+TRPV1_RAT_F720L,TRPV1,Rattus norvegicus,F720L,less functional,1,1
+TRPV1_RAT_S80Y,TRPV1,Rattus norvegicus,S80Y,less functional,1,1
+TRPV1_RAT_D23Y,TRPV1,Rattus norvegicus,D23Y,functional,0,1
+TRPV1_RAT_P96Q,TRPV1,Rattus norvegicus,P96Q,less functional,1,1
+TRPV1_RAT_P38H,TRPV1,Rattus norvegicus,P38H,less functional,1,1
+TRPV1_RAT_D281Y,TRPV1,Rattus norvegicus,D281Y,functional,0,1
+TRPV1_RAT_L396Q,TRPV1,Rattus norvegicus,L396Q,less functional,1,1
+TRPV1_RAT_T818M,TRPV1,Rattus norvegicus,T818M,functional,0,1
+TRPV1_RAT_D825V,TRPV1,Rattus norvegicus,D825V,less functional,1,1
+TRPV1_RAT_F517L,TRPV1,Rattus norvegicus,F517L,less functional,1,1
+TRPV1_RAT_I446V,TRPV1,Rattus norvegicus,I446V,functional,0,1
+TRPV1_RAT_G643S,TRPV1,Rattus norvegicus,G643S,less functional,1,1
+TRPV1_RAT_C63Y,TRPV1,Rattus norvegicus,C63Y,less functional,1,1
+TRPV1_RAT_T335M,TRPV1,Rattus norvegicus,T335M,less functional,1,1
+TRPV1_RAT_D171V,TRPV1,Rattus norvegicus,D171V,less functional,1,1
+TRPV1_RAT_F448L,TRPV1,Rattus norvegicus,F448L,less functional,1,1
+TRPV1_RAT_M716I,TRPV1,Rattus norvegicus,M716I,functional,0,1
+TRPV1_RAT_I703T,TRPV1,Rattus norvegicus,I703T,less functional,1,1
+TRPV1_RAT_D119E,TRPV1,Rattus norvegicus,D119E,functional,0,1
+TRPV1_RAT_K332R,TRPV1,Rattus norvegicus,K332R,functional,0,1
+TRPV1_RAT_K155N,TRPV1,Rattus norvegicus,K155N,functional,0,1
+TRPV1_RAT_K425E,TRPV1,Rattus norvegicus,K425E,less functional,1,1
+TRPV1_RAT_N789D,TRPV1,Rattus norvegicus,N789D,less functional,1,1
+TRPV1_RAT_M541K,TRPV1,Rattus norvegicus,M541K,less functional,1,1
+TRPV1_RAT_E536G,TRPV1,Rattus norvegicus,E536G,less functional,1,1
+TRPV1_RAT_D54V,TRPV1,Rattus norvegicus,D54V,less functional,1,1
+TRPV1_RAT_N164S,TRPV1,Rattus norvegicus,N164S,less functional,1,1
+TRPV1_RAT_V305A,TRPV1,Rattus norvegicus,V305A,less functional,1,1
+TRPV1_RAT_R48W,TRPV1,Rattus norvegicus,R48W,functional,0,1
+TRPV1_RAT_D509G,TRPV1,Rattus norvegicus,D509G,less functional,1,1
+TRPV1_RAT_L521P,TRPV1,Rattus norvegicus,L521P,less functional,1,1
+TRPV1_RAT_I312T,TRPV1,Rattus norvegicus,I312T,less functional,1,1
+TRPV1_RAT_S14Y,TRPV1,Rattus norvegicus,S14Y,less functional,1,1
+TRPV1_RAT_Q700R,TRPV1,Rattus norvegicus,Q700R,less functional,1,1
+TRPV1_RAT_S626Y,TRPV1,Rattus norvegicus,S626Y,functional,0,1
+TRPV1_RAT_E827D,TRPV1,Rattus norvegicus,E827D,less functional,1,1
+TRPV1_RAT_R785S,TRPV1,Rattus norvegicus,R785S,less functional,1,1
+TRPV1_RAT_G233V,TRPV1,Rattus norvegicus,G233V,functional,0,1
+TRPV1_RAT_V596M,TRPV1,Rattus norvegicus,V596M,less functional,1,1
+TRPV1_RAT_I661T,TRPV1,Rattus norvegicus,I661T,less functional,1,1
+TRPV1_RAT_E684D,TRPV1,Rattus norvegicus,E684D,functional,0,1
+TRPV1_RAT_F473L,TRPV1,Rattus norvegicus,F473L,less functional,1,1
+TRPV1_RAT_H320P,TRPV1,Rattus norvegicus,H320P,less functional,1,1
+TRPV1_RAT_L681H,TRPV1,Rattus norvegicus,L681H,less functional,1,1
+TRPV1_RAT_R212L,TRPV1,Rattus norvegicus,R212L,functional,0,1
+TRPV1_RAT_S404R,TRPV1,Rattus norvegicus,S404R,less functional,1,1
+TRPV1_RAT_M572T,TRPV1,Rattus norvegicus,M572T,less functional,1,1
+TRPV1_RAT_S483T,TRPV1,Rattus norvegicus,S483T,less functional,1,1
+TRPV1_RAT_I514V,TRPV1,Rattus norvegicus,I514V,less functional,1,1
+TRPV1_RAT_C741S,TRPV1,Rattus norvegicus,C741S,less functional,1,1
+TRPV1_RAT_L186P,TRPV1,Rattus norvegicus,L186P,less functional,1,1
+TRPV1_RAT_I75T,TRPV1,Rattus norvegicus,I75T,less functional,1,1
+TRPV1_RAT_L795I,TRPV1,Rattus norvegicus,L795I,functional,0,1
+TRPV1_RAT_F439A,TRPV1,Rattus norvegicus,F439A,functional,0,1
+TRPV1_RAT_N191S,TRPV1,Rattus norvegicus,N191S,less functional,1,1
+TRPV1_RAT_V217E,TRPV1,Rattus norvegicus,V217E,less functional,1,1
+TRPV1_RAT_P376S,TRPV1,Rattus norvegicus,P376S,less functional,1,1
+TRPV1_RAT_F587Y,TRPV1,Rattus norvegicus,F587Y,less functional,1,1
+TRPV1_RAT_F488L,TRPV1,Rattus norvegicus,F488L,functional,0,1
+TRPV1_RAT_R575G,TRPV1,Rattus norvegicus,R575G,functional,0,1
+TRPV1_RAT_E811G,TRPV1,Rattus norvegicus,E811G,functional,0,1
+TRPV1_RAT_N223D,TRPV1,Rattus norvegicus,N223D,less functional,1,1
+TRPV1_RAT_F247S,TRPV1,Rattus norvegicus,F247S,less functional,1,1
+TRPV1_RAT_S185G,TRPV1,Rattus norvegicus,S185G,less functional,1,1
+TRPV1_RAT_G492W,TRPV1,Rattus norvegicus,G492W,functional,0,1
+TRPV1_RAT_M308T,TRPV1,Rattus norvegicus,M308T,less functional,1,1
+TRPV1_RAT_Y487C,TRPV1,Rattus norvegicus,Y487C,less functional,1,1
+TRPV1_RAT_D427G,TRPV1,Rattus norvegicus,D427G,less functional,1,1
+TRPV1_RAT_S131C,TRPV1,Rattus norvegicus,S131C,less functional,1,1
+TRPV1_RAT_M562L,TRPV1,Rattus norvegicus,M562L,less functional,1,1
+TRPV1_RAT_M214I,TRPV1,Rattus norvegicus,M214I,functional,0,1
+TRPV1_RAT_M562V,TRPV1,Rattus norvegicus,M562V,less functional,1,1
+TRPV1_RAT_M547L,TRPV1,Rattus norvegicus,M547L,functional,0,1
+TRPV1_RAT_A71T,TRPV1,Rattus norvegicus,A71T,less functional,1,1
+TRPV1_RAT_I696V,TRPV1,Rattus norvegicus,I696V,less functional,1,1
+TRPV1_RAT_W697R,TRPV1,Rattus norvegicus,W697R,less functional,1,1
+TRPV1_RAT_V567D,TRPV1,Rattus norvegicus,V567D,less functional,1,1
+TRPV1_RAT_G88V,TRPV1,Rattus norvegicus,G88V,functional,0,1
+TRPV1_RAT_L61M,TRPV1,Rattus norvegicus,L61M,functional,0,1
+TRPV1_RAT_L585P,TRPV1,Rattus norvegicus,L585P,less functional,1,1
+TRPV1_RAT_W426C,TRPV1,Rattus norvegicus,W426C,functional,0,1
+TRPV1_RAT_K141E,TRPV1,Rattus norvegicus,K141E,functional,0,1
+TRPV1_RAT_L669H,TRPV1,Rattus norvegicus,L669H,less functional,1,1
+TRPV1_RAT_E397D,TRPV1,Rattus norvegicus,E397D,less functional,1,1
+TRPV1_RAT_F507Y,TRPV1,Rattus norvegicus,F507Y,less functional,1,1
+TRPV1_RAT_K345R,TRPV1,Rattus norvegicus,K345R,less functional,1,1
+TRPV1_RAT_V294E,TRPV1,Rattus norvegicus,V294E,less functional,1,1
+TRPV1_RAT_F587S,TRPV1,Rattus norvegicus,F587S,less functional,1,1
+TRPV1_RAT_E11G,TRPV1,Rattus norvegicus,E11G,functional,0,1
+TRPV1_RAT_I76T,TRPV1,Rattus norvegicus,I76T,less functional,1,1
+TRPV1_RAT_D825G,TRPV1,Rattus norvegicus,D825G,less functional,1,1
+TRPV1_RAT_W787R,TRPV1,Rattus norvegicus,W787R,less functional,1,1
+TRPV1_RAT_S481P,TRPV1,Rattus norvegicus,S481P,less functional,1,1
+TRPV1_RAT_Y530C,TRPV1,Rattus norvegicus,Y530C,less functional,1,1
+TRPV1_RAT_Y565C,TRPV1,Rattus norvegicus,Y565C,less functional,1,1
+TRPV1_RAT_F638S,TRPV1,Rattus norvegicus,F638S,less functional,1,1
+TRPV1_RAT_Y453H,TRPV1,Rattus norvegicus,Y453H,less functional,1,1
+TRPV1_RAT_E152D,TRPV1,Rattus norvegicus,E152D,functional,0,1
+TRPV1_RAT_L7I,TRPV1,Rattus norvegicus,L7I,less functional,1,1
+TRPV1_RAT_S20Y,TRPV1,Rattus norvegicus,S20Y,less functional,1,1
+TRPV1_RAT_Q169R,TRPV1,Rattus norvegicus,Q169R,functional,0,1
+TRPV1_RAT_R785G,TRPV1,Rattus norvegicus,R785G,functional,0,1
+TRPV1_RAT_T77S,TRPV1,Rattus norvegicus,T77S,less functional,1,1
+TRPV1_RAT_P461S,TRPV1,Rattus norvegicus,P461S,less functional,1,1
+TRPV1_RAT_F304L,TRPV1,Rattus norvegicus,F304L,functional,0,1
+TRPV1_RAT_Q533H,TRPV1,Rattus norvegicus,Q533H,functional,0,1
+TRPV1_RAT_T322M,TRPV1,Rattus norvegicus,T322M,less functional,1,1
+TRPV1_RAT_Y112C,TRPV1,Rattus norvegicus,Y112C,less functional,1,1
+TRPV1_RAT_N164K,TRPV1,Rattus norvegicus,N164K,less functional,1,1
+TRPV1_RAT_S307G,TRPV1,Rattus norvegicus,S307G,less functional,1,1
+TRPV1_RAT_E513D,TRPV1,Rattus norvegicus,E513D,less functional,1,1
+TRPV1_RAT_M716K,TRPV1,Rattus norvegicus,M716K,functional,0,1
+TRPV1_RAT_I759N,TRPV1,Rattus norvegicus,I759N,less functional,1,1
+TRPV1_RAT_E222D,TRPV1,Rattus norvegicus,E222D,less functional,1,1
+TRPV1_RAT_Y309C,TRPV1,Rattus norvegicus,Y309C,less functional,1,1
+TRPV1_RAT_W549C,TRPV1,Rattus norvegicus,W549C,less functional,1,1
+TRPV1_RAT_W749C,TRPV1,Rattus norvegicus,W749C,functional,0,1
+TRPV1_RAT_L175M,TRPV1,Rattus norvegicus,L175M,functional,0,1
+TRPV1_RAT_Y671H,TRPV1,Rattus norvegicus,Y671H,less functional,1,1
+TRPV1_RAT_R181L,TRPV1,Rattus norvegicus,R181L,functional,0,1
+TRPV1_RAT_T172S,TRPV1,Rattus norvegicus,T172S,less functional,1,1
+TRPV1_RAT_D26V,TRPV1,Rattus norvegicus,D26V,functional,0,1
+TRPV1_RAT_L675P,TRPV1,Rattus norvegicus,L675P,less functional,1,1
+TRPV1_RAT_H410L,TRPV1,Rattus norvegicus,H410L,less functional,1,1
+TRPV1_RAT_F235S,TRPV1,Rattus norvegicus,F235S,less functional,1,1
+TRPV1_RAT_P24T,TRPV1,Rattus norvegicus,P24T,less functional,1,1
+TRPV1_RAT_G618V,TRPV1,Rattus norvegicus,G618V,less functional,1,1
+TRPV1_RAT_Y537F,TRPV1,Rattus norvegicus,Y537F,less functional,1,1
+TRPV1_RAT_K603R,TRPV1,Rattus norvegicus,K603R,functional,0,1
+TRPV1_RAT_L349S,TRPV1,Rattus norvegicus,L349S,less functional,1,1
+TRPV1_RAT_I328V,TRPV1,Rattus norvegicus,I328V,less functional,1,1
+TRPV1_RAT_N695H,TRPV1,Rattus norvegicus,N695H,less functional,1,1
+TRPV1_RAT_E147G,TRPV1,Rattus norvegicus,E147G,less functional,1,1
+TRPV1_RAT_D737G,TRPV1,Rattus norvegicus,D737G,less functional,1,1
+TRPV1_RAT_V398A,TRPV1,Rattus norvegicus,V398A,less functional,1,1
+TRPV1_RAT_E709G,TRPV1,Rattus norvegicus,E709G,less functional,1,1
+TRPV1_RAT_F496L,TRPV1,Rattus norvegicus,F496L,less functional,1,1
+TRPV1_RAT_K603N,TRPV1,Rattus norvegicus,K603N,less functional,1,1
+TRPV1_RAT_R701G,TRPV1,Rattus norvegicus,R701G,less functional,1,1
+TRPV1_RAT_Q99H,TRPV1,Rattus norvegicus,Q99H,less functional,1,1
+TRPV1_RAT_P60H,TRPV1,Rattus norvegicus,P60H,less functional,1,1
+TRPV1_RAT_V756A,TRPV1,Rattus norvegicus,V756A,less functional,1,1
+TRPV1_RAT_D8Y,TRPV1,Rattus norvegicus,D8Y,functional,0,1
+TRPV1_RAT_Q17K,TRPV1,Rattus norvegicus,Q17K,functional,0,1
+TRPV1_RAT_E371K,TRPV1,Rattus norvegicus,E371K,less functional,1,1
+TRPV1_RAT_S481F,TRPV1,Rattus norvegicus,S481F,less functional,1,1
+TRPV1_RAT_K622R,TRPV1,Rattus norvegicus,K622R,less functional,1,1
+TRPV1_RAT_P763Q,TRPV1,Rattus norvegicus,P763Q,functional,0,1
+TRPV1_RAT_P91H,TRPV1,Rattus norvegicus,P91H,less functional,1,1
+TRPV1_RAT_I399N,TRPV1,Rattus norvegicus,I399N,less functional,1,1
+TRPV1_RAT_T641A,TRPV1,Rattus norvegicus,T641A,less functional,1,1
+TRPV1_RAT_S711G,TRPV1,Rattus norvegicus,S711G,functional,0,1
+TRPV1_RAT_P461L,TRPV1,Rattus norvegicus,P461L,less functional,1,1
+TRPV1_RAT_L503H,TRPV1,Rattus norvegicus,L503H,less functional,1,1
+TRPV1_RAT_H358R,TRPV1,Rattus norvegicus,H358R,less functional,1,1
+TRPV1_RAT_F742L,TRPV1,Rattus norvegicus,F742L,less functional,1,1
+TRPV1_RAT_E210D,TRPV1,Rattus norvegicus,E210D,less functional,1,1
+TRPV1_RAT_P732H,TRPV1,Rattus norvegicus,P732H,less functional,1,1
+TRPV1_RAT_K788N,TRPV1,Rattus norvegicus,K788N,functional,0,1
+TRPV1_RAT_F439D,TRPV1,Rattus norvegicus,F439D,less functional,1,1
+TRPV1_RAT_D427V,TRPV1,Rattus norvegicus,D427V,less functional,1,1
+TRPV1_RAT_K200D,TRPV1,Rattus norvegicus,K200D,less functional,1,1
+TRPV1_RAT_S403G,TRPV1,Rattus norvegicus,S403G,less functional,1,1
+TRPV1_RAT_V121M,TRPV1,Rattus norvegicus,V121M,less functional,1,1
+TRPV1_RAT_E648G,TRPV1,Rattus norvegicus,E648G,less functional,1,1
+TRPV1_RAT_S9T,TRPV1,Rattus norvegicus,S9T,less functional,1,1
+TRPV1_RAT_L288P,TRPV1,Rattus norvegicus,L288P,less functional,1,1
+TRPV1_RAT_M609L,TRPV1,Rattus norvegicus,M609L,less functional,1,1
+TRPV1_RAT_K52E,TRPV1,Rattus norvegicus,K52E,functional,0,1
+TRPV1_RAT_E359G,TRPV1,Rattus norvegicus,E359G,less functional,1,1
+TRPV1_RAT_V728E,TRPV1,Rattus norvegicus,V728E,less functional,1,1
+TRPV1_RAT_I328N,TRPV1,Rattus norvegicus,I328N,functional,0,1
+TRPV1_RAT_D145Y,TRPV1,Rattus norvegicus,D145Y,functional,0,1
+TRPV1_RAT_G643C,TRPV1,Rattus norvegicus,G643C,less functional,1,1
+TRPV1_RAT_Q700H,TRPV1,Rattus norvegicus,Q700H,functional,0,1
+TRPV1_RAT_D383Y,TRPV1,Rattus norvegicus,D383Y,functional,0,1
+TRPV1_RAT_T215S,TRPV1,Rattus norvegicus,T215S,less functional,1,1
+TRPV1_RAT_S12Y,TRPV1,Rattus norvegicus,S12Y,less functional,1,1
+TRPV1_RAT_D196V,TRPV1,Rattus norvegicus,D196V,functional,0,1
+TRPV1_RAT_M677T,TRPV1,Rattus norvegicus,M677T,less functional,1,1
+TRPV1_RAT_W372R,TRPV1,Rattus norvegicus,W372R,less functional,1,1
+TRPV1_RAT_V595A,TRPV1,Rattus norvegicus,V595A,less functional,1,1
+TRPV1_RAT_Q700L,TRPV1,Rattus norvegicus,Q700L,less functional,1,1
+TRPV1_RAT_K200C,TRPV1,Rattus norvegicus,K200C,less functional,1,1
+TRPV1_RAT_R211L,TRPV1,Rattus norvegicus,R211L,less functional,1,1
+TRPV1_RAT_I40N,TRPV1,Rattus norvegicus,I40N,less functional,1,1
+TRPV1_RAT_S101T,TRPV1,Rattus norvegicus,S101T,less functional,1,1
+TRPV1_RAT_M562T,TRPV1,Rattus norvegicus,M562T,less functional,1,1
+TRPV1_RAT_S307R,TRPV1,Rattus norvegicus,S307R,less functional,1,1
+TRPV1_RAT_F488S,TRPV1,Rattus norvegicus,F488S,less functional,1,1
+TRPV1_RAT_W752R,TRPV1,Rattus norvegicus,W752R,less functional,1,1
+TRPV1_RAT_H358L,TRPV1,Rattus norvegicus,H358L,less functional,1,1
+TRPV1_RAT_D411V,TRPV1,Rattus norvegicus,D411V,less functional,1,1
+TRPV1_RAT_V190A,TRPV1,Rattus norvegicus,V190A,less functional,1,1
+TRPV1_RAT_M162V,TRPV1,Rattus norvegicus,M162V,functional,0,1
+TRPV1_RAT_N232I,TRPV1,Rattus norvegicus,N232I,less functional,1,1
+TRPV1_RAT_F266L,TRPV1,Rattus norvegicus,F266L,functional,0,1
+TRPV1_RAT_Y511H,TRPV1,Rattus norvegicus,Y511H,less functional,1,1
+TRPV1_RAT_I117T,TRPV1,Rattus norvegicus,I117T,less functional,1,1
+TRPV1_RAT_V567A,TRPV1,Rattus norvegicus,V567A,less functional,1,1
+TRPV1_RAT_K830N,TRPV1,Rattus norvegicus,K830N,functional,0,1
+TRPV1_RAT_P34H,TRPV1,Rattus norvegicus,P34H,less functional,1,1
+TRPV1_RAT_V190D,TRPV1,Rattus norvegicus,V190D,less functional,1,1
+TRPV1_RAT_Q809R,TRPV1,Rattus norvegicus,Q809R,less functional,1,1
+TRPV1_RAT_F587L,TRPV1,Rattus norvegicus,F587L,functional,0,1
+TRPV1_RAT_S693G,TRPV1,Rattus norvegicus,S693G,less functional,1,1
+TRPV1_RAT_C621R,TRPV1,Rattus norvegicus,C621R,less functional,1,1
+TRPV1_RAT_G347W,TRPV1,Rattus norvegicus,G347W,functional,0,1
+TRPV1_RAT_N628S,TRPV1,Rattus norvegicus,N628S,less functional,1,1
+TRPV1_RAT_L384M,TRPV1,Rattus norvegicus,L384M,less functional,1,1
+TRPV1_RAT_L313S,TRPV1,Rattus norvegicus,L313S,less functional,1,1
+TRPV1_RAT_N259D,TRPV1,Rattus norvegicus,N259D,less functional,1,1
+TRPV1_RAT_Q99L,TRPV1,Rattus norvegicus,Q99L,less functional,1,1
+TRPV1_RAT_D113E,TRPV1,Rattus norvegicus,D113E,less functional,1,1
+TRPV1_RAT_F790L,TRPV1,Rattus norvegicus,F790L,functional,0,1
+TRPV1_RAT_N467T,TRPV1,Rattus norvegicus,N467T,less functional,1,1
+TRPV1_RAT_E709V,TRPV1,Rattus norvegicus,E709V,less functional,1,1
+TRPV1_RAT_V658A,TRPV1,Rattus norvegicus,V658A,less functional,1,1
+TRPV1_RAT_T633S,TRPV1,Rattus norvegicus,T633S,less functional,1,1
+TRPV1_RAT_R432H,TRPV1,Rattus norvegicus,R432H,functional,0,1
+TRPV1_RAT_S380P,TRPV1,Rattus norvegicus,S380P,less functional,1,1
+TRPV1_RAT_T593S,TRPV1,Rattus norvegicus,T593S,less functional,1,1
+TRPV1_RAT_T650A,TRPV1,Rattus norvegicus,T650A,less functional,1,1
+TRPV1_RAT_S101Y,TRPV1,Rattus norvegicus,S101Y,less functional,1,1
+TRPV1_RAT_K639R,TRPV1,Rattus norvegicus,K639R,less functional,1,1
+TRPV1_RAT_L421H,TRPV1,Rattus norvegicus,L421H,less functional,1,1
+TRPV1_RAT_P60T,TRPV1,Rattus norvegicus,P60T,functional,0,1
+TRPV1_RAT_M523V,TRPV1,Rattus norvegicus,M523V,functional,0,1
+TRPV1_RAT_L773M,TRPV1,Rattus norvegicus,L773M,functional,0,1
+TRPV1_RAT_P35Q,TRPV1,Rattus norvegicus,P35Q,less functional,1,1
+TRPV1_RAT_N330Y,TRPV1,Rattus norvegicus,N330Y,less functional,1,1
+TRPV1_RAT_D145V,TRPV1,Rattus norvegicus,D145V,less functional,1,1
+TRPV1_RAT_I689V,TRPV1,Rattus norvegicus,I689V,less functional,1,1
+TRPV1_RAT_L630Q,TRPV1,Rattus norvegicus,L630Q,less functional,1,1
+TRPV1_RAT_Y554N,TRPV1,Rattus norvegicus,Y554N,less functional,1,1
+TRPV1_RAT_R797G,TRPV1,Rattus norvegicus,R797G,less functional,1,1
+TRPV1_RAT_T807S,TRPV1,Rattus norvegicus,T807S,less functional,1,1
+TRPV1_RAT_V469I,TRPV1,Rattus norvegicus,V469I,less functional,1,1
+TRPV1_RAT_M581K,TRPV1,Rattus norvegicus,M581K,less functional,1,1
+TRPV1_RAT_D171Y,TRPV1,Rattus norvegicus,D171Y,functional,0,1
+TRPV1_RAT_A255T,TRPV1,Rattus norvegicus,A255T,less functional,1,1
+TRPV1_RAT_K710E,TRPV1,Rattus norvegicus,K710E,less functional,1,1
+TRPV1_RAT_T156S,TRPV1,Rattus norvegicus,T156S,less functional,1,1
+TRPV1_RAT_G784W,TRPV1,Rattus norvegicus,G784W,functional,0,1
+TRPV1_RAT_Y653F,TRPV1,Rattus norvegicus,Y653F,less functional,1,1
+TRPV1_RAT_R44S,TRPV1,Rattus norvegicus,R44S,less functional,1,1
+TRPV1_RAT_E356G,TRPV1,Rattus norvegicus,E356G,less functional,1,1
+TRPV1_RAT_R717M,TRPV1,Rattus norvegicus,R717M,functional,0,1
+TRPV1_RAT_N748S,TRPV1,Rattus norvegicus,N748S,functional,0,1
+TRPV1_RAT_N301I,TRPV1,Rattus norvegicus,N301I,less functional,1,1
+TRPV1_RAT_D388V,TRPV1,Rattus norvegicus,D388V,less functional,1,1
+TRPV1_RAT_P33Q,TRPV1,Rattus norvegicus,P33Q,less functional,1,1
+TRPV1_RAT_T306S,TRPV1,Rattus norvegicus,T306S,less functional,1,1
+TRPV1_RAT_R491L,TRPV1,Rattus norvegicus,R491L,less functional,1,1
+TRPV1_RAT_N760S,TRPV1,Rattus norvegicus,N760S,less functional,1,1
+TRPV1_RAT_F775S,TRPV1,Rattus norvegicus,F775S,functional,0,1
+TRPV1_RAT_R717G,TRPV1,Rattus norvegicus,R717G,less functional,1,1
+TRPV1_RAT_L267P,TRPV1,Rattus norvegicus,L267P,less functional,1,1
+TRPV1_RAT_D196Y,TRPV1,Rattus norvegicus,D196Y,functional,0,1
+TRPV1_RAT_S271Y,TRPV1,Rattus norvegicus,S271Y,functional,0,1
+TRPV1_RAT_S526P,TRPV1,Rattus norvegicus,S526P,less functional,1,1
+TRPV1_RAT_P74H,TRPV1,Rattus norvegicus,P74H,functional,0,1
+TRPV1_RAT_L726P,TRPV1,Rattus norvegicus,L726P,less functional,1,1
+TRPV1_RAT_K788R,TRPV1,Rattus norvegicus,K788R,functional,0,1
+TRPV1_RAT_L669I,TRPV1,Rattus norvegicus,L669I,functional,0,1
+TRPV1_RAT_A231T,TRPV1,Rattus norvegicus,A231T,less functional,1,1
+TRPV1_RAT_L524Q,TRPV1,Rattus norvegicus,L524Q,less functional,1,1
+TRPV1_RAT_I209T,TRPV1,Rattus norvegicus,I209T,less functional,1,1
+TRPV1_RAT_N213S,TRPV1,Rattus norvegicus,N213S,functional,0,1
+TRPV1_RAT_D234Y,TRPV1,Rattus norvegicus,D234Y,functional,0,1
+TRPV1_RAT_P360H,TRPV1,Rattus norvegicus,P360H,less functional,1,1
+TRPV1_RAT_G233W,TRPV1,Rattus norvegicus,G233W,functional,0,1
+TRPV1_RAT_L365I,TRPV1,Rattus norvegicus,L365I,less functional,1,1
+TRPV1_RAT_T302A,TRPV1,Rattus norvegicus,T302A,less functional,1,1
+TRPV1_RAT_F640Y,TRPV1,Rattus norvegicus,F640Y,less functional,1,1
+TRPV1_RAT_L635P,TRPV1,Rattus norvegicus,L635P,less functional,1,1
+TRPV1_RAT_L635M,TRPV1,Rattus norvegicus,L635M,less functional,1,1
+TRPV1_RAT_Y194N,TRPV1,Rattus norvegicus,Y194N,less functional,1,1
+TRPV1_RAT_G316W,TRPV1,Rattus norvegicus,G316W,less functional,1,1
+TRPV1_RAT_S98P,TRPV1,Rattus norvegicus,S98P,less functional,1,1
+TRPV1_RAT_M572L,TRPV1,Rattus norvegicus,M572L,less functional,1,1
+TRPV1_RAT_P15Q,TRPV1,Rattus norvegicus,P15Q,functional,0,1
+TRPV1_RAT_I40V,TRPV1,Rattus norvegicus,I40V,less functional,1,1
+TRPV1_RAT_N330I,TRPV1,Rattus norvegicus,N330I,less functional,1,1
+TRPV1_RAT_T322S,TRPV1,Rattus norvegicus,T322S,functional,0,1
+TRPV1_RAT_L291M,TRPV1,Rattus norvegicus,L291M,functional,0,1
+TRPV1_RAT_G333V,TRPV1,Rattus norvegicus,G333V,less functional,1,1
+TRPV1_RAT_Y554C,TRPV1,Rattus norvegicus,Y554C,less functional,1,1
+TRPV1_RAT_R46H,TRPV1,Rattus norvegicus,R46H,less functional,1,1
+TRPV1_RAT_Q533K,TRPV1,Rattus norvegicus,Q533K,less functional,1,1
+TRPV1_RAT_E293G,TRPV1,Rattus norvegicus,E293G,less functional,1,1
+TRPV1_RAT_G168V,TRPV1,Rattus norvegicus,G168V,functional,0,1
+TRPV1_RAT_D831G,TRPV1,Rattus norvegicus,D831G,functional,0,1
+TRPV1_RAT_D411N,TRPV1,Rattus norvegicus,D411N,less functional,1,1
+TRPV1_RAT_R797M,TRPV1,Rattus norvegicus,R797M,functional,0,1
+TRPV1_RAT_R778M,TRPV1,Rattus norvegicus,R778M,less functional,1,1
+TRPV1_RAT_W752L,TRPV1,Rattus norvegicus,W752L,functional,0,1
+TRPV1_RAT_R701I,TRPV1,Rattus norvegicus,R701I,less functional,1,1
+TRPV1_RAT_P462T,TRPV1,Rattus norvegicus,P462T,functional,0,1
+TRPV1_RAT_D745G,TRPV1,Rattus norvegicus,D745G,less functional,1,1
+TRPV1_RAT_L205R,TRPV1,Rattus norvegicus,L205R,less functional,1,1
+TRPV1_RAT_N408I,TRPV1,Rattus norvegicus,N408I,less functional,1,1
+TRPV1_RAT_S379Y,TRPV1,Rattus norvegicus,S379Y,functional,0,1
+TRPV1_RAT_G683C,TRPV1,Rattus norvegicus,G683C,less functional,1,1
+TRPV1_RAT_Y309H,TRPV1,Rattus norvegicus,Y309H,less functional,1,1
+TRPV1_RAT_S776Y,TRPV1,Rattus norvegicus,S776Y,functional,0,1
+TRPV1_RAT_H364R,TRPV1,Rattus norvegicus,H364R,less functional,1,1
+TRPV1_RAT_G836W,TRPV1,Rattus norvegicus,G836W,functional,0,1
+TRPV1_RAT_M412L,TRPV1,Rattus norvegicus,M412L,less functional,1,1
+TRPV1_RAT_C21Y,TRPV1,Rattus norvegicus,C21Y,functional,0,1
+TRPV1_RAT_Q228L,TRPV1,Rattus norvegicus,Q228L,less functional,1,1
+TRPV1_RAT_F640L,TRPV1,Rattus norvegicus,F640L,functional,0,1
+TRPV1_RAT_Q519R,TRPV1,Rattus norvegicus,Q519R,less functional,1,1
+TRPV1_RAT_D119Y,TRPV1,Rattus norvegicus,D119Y,less functional,1,1
+TRPV1_RAT_A230V,TRPV1,Rattus norvegicus,A230V,functional,0,1
+TRPV1_RAT_S146C,TRPV1,Rattus norvegicus,S146C,less functional,1,1
+TRPV1_RAT_N310I,TRPV1,Rattus norvegicus,N310I,less functional,1,1
+TRPV1_RAT_G375E,TRPV1,Rattus norvegicus,G375E,less functional,1,1
+TRPV1_RAT_K535M,TRPV1,Rattus norvegicus,K535M,less functional,1,1
+TRPV1_RAT_G344R,TRPV1,Rattus norvegicus,G344R,less functional,1,1
+TRPV1_RAT_W752C,TRPV1,Rattus norvegicus,W752C,functional,0,1
+TRPV1_RAT_R739L,TRPV1,Rattus norvegicus,R739L,less functional,1,1
+TRPV1_RAT_E692D,TRPV1,Rattus norvegicus,E692D,functional,0,1
+TRPV1_RAT_G624C,TRPV1,Rattus norvegicus,G624C,less functional,1,1
+TRPV1_RAT_P461H,TRPV1,Rattus norvegicus,P461H,functional,0,1
+TRPV1_RAT_I672V,TRPV1,Rattus norvegicus,I672V,less functional,1,1
+TRPV1_RAT_N687I,TRPV1,Rattus norvegicus,N687I,less functional,1,1
+TRPV1_RAT_G734C,TRPV1,Rattus norvegicus,G734C,functional,0,1
+TRPV1_RAT_D733V,TRPV1,Rattus norvegicus,D733V,less functional,1,1
+TRPV1_RAT_F580L,TRPV1,Rattus norvegicus,F580L,less functional,1,1
+TRPV1_RAT_E311G,TRPV1,Rattus norvegicus,E311G,less functional,1,1
+TRPV1_RAT_L773Q,TRPV1,Rattus norvegicus,L773Q,less functional,1,1
+TRPV1_RAT_M562I,TRPV1,Rattus norvegicus,M562I,functional,0,1
+TRPV1_RAT_V782D,TRPV1,Rattus norvegicus,V782D,less functional,1,1
+TRPV1_RAT_H320L,TRPV1,Rattus norvegicus,H320L,less functional,1,1
+TRPV1_RAT_W426L,TRPV1,Rattus norvegicus,W426L,functional,0,1
+TRPV1_RAT_C741R,TRPV1,Rattus norvegicus,C741R,less functional,1,1
+TRPV1_RAT_T335P,TRPV1,Rattus norvegicus,T335P,less functional,1,1
+TRPV1_RAT_G248C,TRPV1,Rattus norvegicus,G248C,less functional,1,1
+TRPV1_RAT_V834D,TRPV1,Rattus norvegicus,V834D,less functional,1,1
+TRPV1_RAT_E18G,TRPV1,Rattus norvegicus,E18G,functional,0,1
+TRPV1_RAT_S402G,TRPV1,Rattus norvegicus,S402G,less functional,1,1
+TRPV1_RAT_V486A,TRPV1,Rattus norvegicus,V486A,functional,0,1
+TRPV1_RAT_S502P,TRPV1,Rattus norvegicus,S502P,less functional,1,1
+TRPV1_RAT_P109T,TRPV1,Rattus norvegicus,P109T,less functional,1,1
+TRPV1_RAT_I672T,TRPV1,Rattus norvegicus,I672T,less functional,1,1
+TRPV1_RAT_G729W,TRPV1,Rattus norvegicus,G729W,functional,0,1
+TRPV1_RAT_C73R,TRPV1,Rattus norvegicus,C73R,less functional,1,1
+TRPV1_RAT_H378R,TRPV1,Rattus norvegicus,H378R,less functional,1,1
+TRPV1_RAT_N695Y,TRPV1,Rattus norvegicus,N695Y,less functional,1,1
+TRPV1_RAT_L675F,TRPV1,Rattus norvegicus,L675F,less functional,1,1
+TRPV1_RAT_I564T,TRPV1,Rattus norvegicus,I564T,less functional,1,1
+TRPV1_RAT_Y565N,TRPV1,Rattus norvegicus,Y565N,less functional,1,1
+TRPV1_RAT_Q533R,TRPV1,Rattus norvegicus,Q533R,less functional,1,1
+TRPV1_RAT_P251H,TRPV1,Rattus norvegicus,P251H,less functional,1,1
+TRPV1_RAT_H289N,TRPV1,Rattus norvegicus,H289N,less functional,1,1
+TRPV1_RAT_E761V,TRPV1,Rattus norvegicus,E761V,less functional,1,1
+TRPV1_RAT_V782A,TRPV1,Rattus norvegicus,V782A,less functional,1,1
+TRPV1_RAT_G477E,TRPV1,Rattus norvegicus,G477E,less functional,1,1
+TRPV1_RAT_L337P,TRPV1,Rattus norvegicus,L337P,less functional,1,1
+TRPV1_RAT_L414P,TRPV1,Rattus norvegicus,L414P,less functional,1,1
+TRPV1_RAT_N760I,TRPV1,Rattus norvegicus,N760I,less functional,1,1
+TRPV1_RAT_I207T,TRPV1,Rattus norvegicus,I207T,less functional,1,1
+TRPV1_RAT_F496S,TRPV1,Rattus norvegicus,F496S,less functional,1,1
+TRPV1_RAT_M644V,TRPV1,Rattus norvegicus,M644V,less functional,1,1
+TRPV1_RAT_L577M,TRPV1,Rattus norvegicus,L577M,less functional,1,1
+TRPV1_RAT_L503I,TRPV1,Rattus norvegicus,L503I,functional,0,1
+TRPV1_RAT_K735N,TRPV1,Rattus norvegicus,K735N,functional,0,1
+TRPV1_RAT_R771H,TRPV1,Rattus norvegicus,R771H,less functional,1,1
+TRPV1_RAT_C634R,TRPV1,Rattus norvegicus,C634R,less functional,1,1
+TRPV1_RAT_K694N,TRPV1,Rattus norvegicus,K694N,functional,0,1
+TRPV1_RAT_L664P,TRPV1,Rattus norvegicus,L664P,less functional,1,1
+TRPV1_RAT_L219I,TRPV1,Rattus norvegicus,L219I,functional,0,1
+TRPV1_RAT_N467S,TRPV1,Rattus norvegicus,N467S,functional,0,1
+TRPV1_RAT_R27I,TRPV1,Rattus norvegicus,R27I,less functional,1,1
+TRPV1_RAT_S253Y,TRPV1,Rattus norvegicus,S253Y,less functional,1,1
+TRPV1_RAT_M833T,TRPV1,Rattus norvegicus,M833T,less functional,1,1
+TRPV1_RAT_W787L,TRPV1,Rattus norvegicus,W787L,less functional,1,1
+TRPV1_RAT_L261Q,TRPV1,Rattus norvegicus,L261Q,less functional,1,1
+TRPV1_RAT_Q99R,TRPV1,Rattus norvegicus,Q99R,functional,0,1
+TRPV1_RAT_D509V,TRPV1,Rattus norvegicus,D509V,less functional,1,1
+TRPV1_RAT_N419D,TRPV1,Rattus norvegicus,N419D,functional,0,1
+TRPV1_RAT_S512G,TRPV1,Rattus norvegicus,S512G,less functional,1,1
+TRPV1_RAT_S404G,TRPV1,Rattus norvegicus,S404G,less functional,1,1
+TRPV1_RAT_I446F,TRPV1,Rattus norvegicus,I446F,less functional,1,1
+TRPV1_RAT_I40T,TRPV1,Rattus norvegicus,I40T,less functional,1,1
+TRPV1_RAT_H166L,TRPV1,Rattus norvegicus,H166L,less functional,1,1
+TRPV1_RAT_A690T,TRPV1,Rattus norvegicus,A690T,less functional,1,1
+TRPV1_RAT_M523R,TRPV1,Rattus norvegicus,M523R,less functional,1,1
+TRPV1_RAT_I352V,TRPV1,Rattus norvegicus,I352V,less functional,1,1
+TRPV1_RAT_M682T,TRPV1,Rattus norvegicus,M682T,less functional,1,1
+TRPV1_RAT_L706P,TRPV1,Rattus norvegicus,L706P,less functional,1,1
+TRPV1_RAT_N652Y,TRPV1,Rattus norvegicus,N652Y,less functional,1,1
+TRPV1_RAT_M1I,TRPV1,Rattus norvegicus,M1I,functional,0,1
+TRPV1_RAT_T183A,TRPV1,Rattus norvegicus,T183A,less functional,1,1
+TRPV1_RAT_Y112H,TRPV1,Rattus norvegicus,Y112H,less functional,1,1
+TRPV1_RAT_K140E,TRPV1,Rattus norvegicus,K140E,less functional,1,1
+TRPV1_RAT_G51V,TRPV1,Rattus norvegicus,G51V,less functional,1,1
+TRPV1_RAT_L673P,TRPV1,Rattus norvegicus,L673P,less functional,1,1
+TRPV1_RAT_G244C,TRPV1,Rattus norvegicus,G244C,less functional,1,1
+TRPV1_RAT_M609I,TRPV1,Rattus norvegicus,M609I,less functional,1,1
+TRPV1_RAT_R455L,TRPV1,Rattus norvegicus,R455L,less functional,1,1
+TRPV1_RAT_M581T,TRPV1,Rattus norvegicus,M581T,less functional,1,1
+TRPV1_RAT_R721H,TRPV1,Rattus norvegicus,R721H,less functional,1,1
+TRPV1_RAT_G780D,TRPV1,Rattus norvegicus,G780D,less functional,1,1
+TRPV1_RAT_M445L,TRPV1,Rattus norvegicus,M445L,functional,0,1
+TRPV1_RAT_S544Y,TRPV1,Rattus norvegicus,S544Y,functional,0,1
+TRPV1_RAT_V217M,TRPV1,Rattus norvegicus,V217M,less functional,1,1
+TRPV1_RAT_L396M,TRPV1,Rattus norvegicus,L396M,functional,0,1
+TRPV1_RAT_K324R,TRPV1,Rattus norvegicus,K324R,less functional,1,1
+TRPV1_RAT_F516L,TRPV1,Rattus norvegicus,F516L,less functional,1,1
+TRPV1_RAT_F649Y,TRPV1,Rattus norvegicus,F649Y,less functional,1,1
+TRPV1_RAT_I759F,TRPV1,Rattus norvegicus,I759F,less functional,1,1
+TRPV1_RAT_L254M,TRPV1,Rattus norvegicus,L254M,functional,0,1
+TRPV1_RAT_N786D,TRPV1,Rattus norvegicus,N786D,less functional,1,1
+TRPV1_RAT_L585I,TRPV1,Rattus norvegicus,L585I,functional,0,1
+TRPV1_RAT_R114H,TRPV1,Rattus norvegicus,R114H,less functional,1,1
+TRPV1_RAT_K770E,TRPV1,Rattus norvegicus,K770E,less functional,1,1
+TRPV1_RAT_Q813K,TRPV1,Rattus norvegicus,Q813K,functional,0,1
+TRPV1_RAT_E600D,TRPV1,Rattus norvegicus,E600D,less functional,1,1
+TRPV1_RAT_L777M,TRPV1,Rattus norvegicus,L777M,functional,0,1
+TRPV1_RAT_D184Y,TRPV1,Rattus norvegicus,D184Y,functional,0,1
+TRPV1_RAT_S9P,TRPV1,Rattus norvegicus,S9P,less functional,1,1
+TRPV1_RAT_D411Y,TRPV1,Rattus norvegicus,D411Y,functional,0,1
+TRPV1_RAT_P25Q,TRPV1,Rattus norvegicus,P25Q,less functional,1,1
+TRPV1_RAT_G347R,TRPV1,Rattus norvegicus,G347R,less functional,1,1
+TRPV1_RAT_E66D,TRPV1,Rattus norvegicus,E66D,less functional,1,1
+TRPV1_RAT_E610G,TRPV1,Rattus norvegicus,E610G,less functional,1,1
+TRPV1_RAT_W272R,TRPV1,Rattus norvegicus,W272R,less functional,1,1
+TRPV1_RAT_G344V,TRPV1,Rattus norvegicus,G344V,less functional,1,1
+TRPV1_RAT_S779T,TRPV1,Rattus norvegicus,S779T,less functional,1,1
+TRPV1_RAT_V264E,TRPV1,Rattus norvegicus,V264E,less functional,1,1
+TRPV1_RAT_V81A,TRPV1,Rattus norvegicus,V81A,less functional,1,1
+TRPV1_RAT_F580I,TRPV1,Rattus norvegicus,F580I,less functional,1,1
+TRPV1_RAT_F522L,TRPV1,Rattus norvegicus,F522L,functional,0,1
+TRPV1_RAT_S55P,TRPV1,Rattus norvegicus,S55P,functional,0,1
+TRPV1_RAT_A295T,TRPV1,Rattus norvegicus,A295T,less functional,1,1
+TRPV1_RAT_L630M,TRPV1,Rattus norvegicus,L630M,functional,0,1
+TRPV1_RAT_N437S,TRPV1,Rattus norvegicus,N437S,less functional,1,1
+TRPV1_RAT_M541T,TRPV1,Rattus norvegicus,M541T,functional,0,1
+TRPV1_RAT_S385Y,TRPV1,Rattus norvegicus,S385Y,less functional,1,1
+TRPV1_RAT_L545M,TRPV1,Rattus norvegicus,L545M,functional,0,1
+TRPV1_RAT_D296E,TRPV1,Rattus norvegicus,D296E,less functional,1,1
+TRPV1_RAT_T556A,TRPV1,Rattus norvegicus,T556A,less functional,1,1
+TRPV1_RAT_P376L,TRPV1,Rattus norvegicus,P376L,less functional,1,1
+TRPV1_RAT_N259Y,TRPV1,Rattus norvegicus,N259Y,less functional,1,1
+TRPV1_RAT_S197C,TRPV1,Rattus norvegicus,S197C,functional,0,1
+TRPV1_RAT_Y666C,TRPV1,Rattus norvegicus,Y666C,less functional,1,1
+TRPV1_RAT_E746K,TRPV1,Rattus norvegicus,E746K,functional,0,1
+TRPV1_RAT_T708A,TRPV1,Rattus norvegicus,T708A,functional,0,1
+TRPV1_RAT_M572V,TRPV1,Rattus norvegicus,M572V,less functional,1,1
+TRPV1_RAT_L418F,TRPV1,Rattus norvegicus,L418F,functional,0,1
+TRPV1_RAT_G477R,TRPV1,Rattus norvegicus,G477R,less functional,1,1
+TRPV1_RAT_K710N,TRPV1,Rattus norvegicus,K710N,less functional,1,1
+TRPV1_RAT_S606Y,TRPV1,Rattus norvegicus,S606Y,functional,0,1
+TRPV1_RAT_S93C,TRPV1,Rattus norvegicus,S93C,functional,0,1
+TRPV1_RAT_S343N,TRPV1,Rattus norvegicus,S343N,functional,0,1
+TRPV1_RAT_L506S,TRPV1,Rattus norvegicus,L506S,less functional,1,1
+TRPV1_RAT_R331S,TRPV1,Rattus norvegicus,R331S,less functional,1,1
+TRPV1_RAT_D601G,TRPV1,Rattus norvegicus,D601G,less functional,1,1
+TRPV1_RAT_L252P,TRPV1,Rattus norvegicus,L252P,less functional,1,1
+TRPV1_RAT_F236L,TRPV1,Rattus norvegicus,F236L,less functional,1,1
+TRPV1_RAT_G51W,TRPV1,Rattus norvegicus,G51W,functional,0,1
+TRPV1_RAT_F655L,TRPV1,Rattus norvegicus,F655L,less functional,1,1
+TRPV1_RAT_Q354H,TRPV1,Rattus norvegicus,Q354H,less functional,1,1
+TRPV1_RAT_K698M,TRPV1,Rattus norvegicus,K698M,less functional,1,1
+TRPV1_RAT_L598P,TRPV1,Rattus norvegicus,L598P,less functional,1,1
+TRPV1_RAT_I117V,TRPV1,Rattus norvegicus,I117V,less functional,1,1
+TRPV1_RAT_R499G,TRPV1,Rattus norvegicus,R499G,less functional,1,1
+TRPV1_RAT_K140N,TRPV1,Rattus norvegicus,K140N,less functional,1,1
+TRPV1_RAT_L219H,TRPV1,Rattus norvegicus,L219H,less functional,1,1
+TRPV1_RAT_V793A,TRPV1,Rattus norvegicus,V793A,functional,0,1
+TRPV1_RAT_N419Y,TRPV1,Rattus norvegicus,N419Y,less functional,1,1
+TRPV1_RAT_F589L,TRPV1,Rattus norvegicus,F589L,less functional,1,1
+TRPV1_RAT_E210G,TRPV1,Rattus norvegicus,E210G,less functional,1,1
+TRPV1_RAT_T153I,TRPV1,Rattus norvegicus,T153I,less functional,1,1
+TRPV1_RAT_M552T,TRPV1,Rattus norvegicus,M552T,functional,0,1
+TRPV1_RAT_H39N,TRPV1,Rattus norvegicus,H39N,functional,0,1
+TRPV1_RAT_S380Y,TRPV1,Rattus norvegicus,S380Y,less functional,1,1
+TRPV1_RAT_R721S,TRPV1,Rattus norvegicus,R721S,less functional,1,1
+TRPV1_RAT_G168W,TRPV1,Rattus norvegicus,G168W,functional,0,1
+TRPV1_RAT_Q808K,TRPV1,Rattus norvegicus,Q808K,functional,0,1
+TRPV1_RAT_T750A,TRPV1,Rattus norvegicus,T750A,less functional,1,1
+TRPV1_RAT_E824D,TRPV1,Rattus norvegicus,E824D,functional,0,1
+TRPV1_RAT_S502Y,TRPV1,Rattus norvegicus,S502Y,less functional,1,1
+TRPV1_RAT_F118I,TRPV1,Rattus norvegicus,F118I,less functional,1,1
+TRPV1_RAT_Q560R,TRPV1,Rattus norvegicus,Q560R,less functional,1,1
+TRPV1_RAT_S483P,TRPV1,Rattus norvegicus,S483P,less functional,1,1
+TRPV1_RAT_K464M,TRPV1,Rattus norvegicus,K464M,less functional,1,1
+TRPV1_RAT_L325Q,TRPV1,Rattus norvegicus,L325Q,less functional,1,1
+TRPV1_RAT_T704A,TRPV1,Rattus norvegicus,T704A,less functional,1,1
+TRPV1_RAT_M541I,TRPV1,Rattus norvegicus,M541I,less functional,1,1
+TRPV1_RAT_V221E,TRPV1,Rattus norvegicus,V221E,less functional,1,1
+TRPV1_RAT_E152G,TRPV1,Rattus norvegicus,E152G,less functional,1,1
+TRPV1_RAT_E837G,TRPV1,Rattus norvegicus,E837G,less functional,1,1
+TRPV1_RAT_F580S,TRPV1,Rattus norvegicus,F580S,less functional,1,1
+TRPV1_RAT_Q127H,TRPV1,Rattus norvegicus,Q127H,less functional,1,1
+TRPV1_RAT_T172A,TRPV1,Rattus norvegicus,T172A,less functional,1,1
+TRPV1_RAT_Y199N,TRPV1,Rattus norvegicus,Y199N,functional,0,1
+TRPV1_RAT_E746D,TRPV1,Rattus norvegicus,E746D,less functional,1,1
+TRPV1_RAT_W272L,TRPV1,Rattus norvegicus,W272L,less functional,1,1
+TRPV1_RAT_T468A,TRPV1,Rattus norvegicus,T468A,less functional,1,1
+TRPV1_RAT_R363L,TRPV1,Rattus norvegicus,R363L,functional,0,1
+TRPV1_RAT_L177P,TRPV1,Rattus norvegicus,L177P,less functional,1,1
+TRPV1_RAT_L252M,TRPV1,Rattus norvegicus,L252M,functional,0,1
+TRPV1_RAT_G768C,TRPV1,Rattus norvegicus,G768C,less functional,1,1
+TRPV1_RAT_N270S,TRPV1,Rattus norvegicus,N270S,less functional,1,1
+TRPV1_RAT_A719T,TRPV1,Rattus norvegicus,A719T,less functional,1,1
+TRPV1_RAT_V527A,TRPV1,Rattus norvegicus,V527A,less functional,1,1
+TRPV1_RAT_P24H,TRPV1,Rattus norvegicus,P24H,functional,0,1
+TRPV1_RAT_G154V,TRPV1,Rattus norvegicus,G154V,less functional,1,1
+TRPV1_RAT_Y565H,TRPV1,Rattus norvegicus,Y565H,less functional,1,1
+TRPV1_RAT_T685A,TRPV1,Rattus norvegicus,T685A,less functional,1,1
+TRPV1_RAT_Q99K,TRPV1,Rattus norvegicus,Q99K,functional,0,1
+TRPV1_RAT_F531L,TRPV1,Rattus norvegicus,F531L,functional,0,1
+TRPV1_RAT_L177Q,TRPV1,Rattus norvegicus,L177Q,less functional,1,1
+TRPV1_RAT_L353I,TRPV1,Rattus norvegicus,L353I,less functional,1,1
+TRPV1_RAT_D654V,TRPV1,Rattus norvegicus,D654V,less functional,1,1
+TRPV1_RAT_F189L,TRPV1,Rattus norvegicus,F189L,less functional,1,1
+TRPV1_RAT_L323P,TRPV1,Rattus norvegicus,L323P,less functional,1,1
+TRPV1_RAT_E746G,TRPV1,Rattus norvegicus,E746G,less functional,1,1
+TRPV1_RAT_Q808R,TRPV1,Rattus norvegicus,Q808R,less functional,1,1
+TRPV1_RAT_F591L,TRPV1,Rattus norvegicus,F591L,less functional,1,1
+TRPV1_RAT_V528A,TRPV1,Rattus norvegicus,V528A,less functional,1,1
+TRPV1_RAT_R785I,TRPV1,Rattus norvegicus,R785I,functional,0,1
+TRPV1_RAT_S79N,TRPV1,Rattus norvegicus,S79N,less functional,1,1
+TRPV1_RAT_P35T,TRPV1,Rattus norvegicus,P35T,functional,0,1
+TRPV1_RAT_S544P,TRPV1,Rattus norvegicus,S544P,less functional,1,1
+TRPV1_RAT_P64T,TRPV1,Rattus norvegicus,P64T,less functional,1,1
+TRPV1_RAT_L662Q,TRPV1,Rattus norvegicus,L662Q,less functional,1,1
+TRPV1_RAT_K656M,TRPV1,Rattus norvegicus,K656M,less functional,1,1
+TRPV1_RAT_S722Y,TRPV1,Rattus norvegicus,S722Y,functional,0,1
+TRPV1_RAT_F582L,TRPV1,Rattus norvegicus,F582L,functional,0,1
+TRPV1_RAT_K303E,TRPV1,Rattus norvegicus,K303E,functional,0,1
+TRPV1_RAT_N301S,TRPV1,Rattus norvegicus,N301S,less functional,1,1
+TRPV1_RAT_R46S,TRPV1,Rattus norvegicus,R46S,functional,0,1
+TRPV1_RAT_S103Y,TRPV1,Rattus norvegicus,S103Y,less functional,1,1
+TRPV1_RAT_L577P,TRPV1,Rattus norvegicus,L577P,less functional,1,1
+TRPV1_RAT_D737V,TRPV1,Rattus norvegicus,D737V,less functional,1,1
+TRPV1_RAT_S394P,TRPV1,Rattus norvegicus,S394P,less functional,1,1
+TRPV1_RAT_N604S,TRPV1,Rattus norvegicus,N604S,less functional,1,1
+TRPV1_RAT_Q85K,TRPV1,Rattus norvegicus,Q85K,less functional,1,1
+TRPV1_RAT_Y194H,TRPV1,Rattus norvegicus,Y194H,less functional,1,1
+TRPV1_RAT_V667A,TRPV1,Rattus norvegicus,V667A,less functional,1,1
+TRPV1_RAT_K714E,TRPV1,Rattus norvegicus,K714E,less functional,1,1
+TRPV1_RAT_L662M,TRPV1,Rattus norvegicus,L662M,functional,0,1
+TRPV1_RAT_L630P,TRPV1,Rattus norvegicus,L630P,less functional,1,1
+TRPV1_RAT_Q269H,TRPV1,Rattus norvegicus,Q269H,functional,0,1
+TRPV1_RAT_D762G,TRPV1,Rattus norvegicus,D762G,less functional,1,1
+TRPV1_RAT_K182N,TRPV1,Rattus norvegicus,K182N,functional,0,1
+TRPV1_RAT_K535R,TRPV1,Rattus norvegicus,K535R,less functional,1,1
+TRPV1_RAT_P835Q,TRPV1,Rattus norvegicus,P835Q,functional,0,1
+TRPV1_RAT_K694R,TRPV1,Rattus norvegicus,K694R,less functional,1,1
+TRPV1_RAT_Y198C,TRPV1,Rattus norvegicus,Y198C,less functional,1,1
+TRPV1_RAT_I479T,TRPV1,Rattus norvegicus,I479T,functional,0,1
+TRPV1_RAT_Q202H,TRPV1,Rattus norvegicus,Q202H,functional,0,1
+TRPV1_RAT_E636G,TRPV1,Rattus norvegicus,E636G,less functional,1,1
+TRPV1_RAT_R355S,TRPV1,Rattus norvegicus,R355S,less functional,1,1
+TRPV1_RAT_R211W,TRPV1,Rattus norvegicus,R211W,less functional,1,1
+TRPV1_RAT_R617W,TRPV1,Rattus norvegicus,R617W,functional,0,1
+TRPV1_RAT_R802L,TRPV1,Rattus norvegicus,R802L,functional,0,1
+TRPV1_RAT_W749L,TRPV1,Rattus norvegicus,W749L,functional,0,1
+TRPV1_RAT_C257R,TRPV1,Rattus norvegicus,C257R,less functional,1,1
+TRPV1_RAT_G784R,TRPV1,Rattus norvegicus,G784R,less functional,1,1
+TRPV1_RAT_T335A,TRPV1,Rattus norvegicus,T335A,less functional,1,1
+TRPV1_RAT_V377M,TRPV1,Rattus norvegicus,V377M,functional,0,1
+TRPV1_RAT_D707Y,TRPV1,Rattus norvegicus,D707Y,less functional,1,1
+TRPV1_RAT_I703F,TRPV1,Rattus norvegicus,I703F,less functional,1,1
+TRPV1_RAT_E293D,TRPV1,Rattus norvegicus,E293D,less functional,1,1
+TRPV1_RAT_L413P,TRPV1,Rattus norvegicus,L413P,less functional,1,1
+TRPV1_RAT_I446L,TRPV1,Rattus norvegicus,I446L,less functional,1,1
+TRPV1_RAT_N604Y,TRPV1,Rattus norvegicus,N604Y,less functional,1,1
+TRPV1_RAT_V508E,TRPV1,Rattus norvegicus,V508E,less functional,1,1
+TRPV1_RAT_P407T,TRPV1,Rattus norvegicus,P407T,functional,0,1
+TRPV1_RAT_G375W,TRPV1,Rattus norvegicus,G375W,functional,0,1
+TRPV1_RAT_P243H,TRPV1,Rattus norvegicus,P243H,less functional,1,1
+TRPV1_RAT_N628I,TRPV1,Rattus norvegicus,N628I,less functional,1,1
+TRPV1_RAT_D150Y,TRPV1,Rattus norvegicus,D150Y,functional,0,1
+TRPV1_RAT_C386Y,TRPV1,Rattus norvegicus,C386Y,less functional,1,1
+TRPV1_RAT_V583I,TRPV1,Rattus norvegicus,V583I,less functional,1,1
+TRPV1_RAT_Y435L,TRPV1,Rattus norvegicus,Y435L,less functional,1,1
+TRPV1_RAT_L545Q,TRPV1,Rattus norvegicus,L545Q,less functional,1,1
+TRPV1_RAT_P732T,TRPV1,Rattus norvegicus,P732T,less functional,1,1
+TRPV1_RAT_E327G,TRPV1,Rattus norvegicus,E327G,functional,0,1
+TRPV1_RAT_L414H,TRPV1,Rattus norvegicus,L414H,less functional,1,1
+TRPV1_RAT_F118L,TRPV1,Rattus norvegicus,F118L,less functional,1,1
+TRPV1_RAT_D798G,TRPV1,Rattus norvegicus,D798G,functional,0,1
+TRPV1_RAT_I433L,TRPV1,Rattus norvegicus,I433L,less functional,1,1
+TRPV1_RAT_R114L,TRPV1,Rattus norvegicus,R114L,functional,0,1
+TRPV1_RAT_S98T,TRPV1,Rattus norvegicus,S98T,less functional,1,1
+TRPV1_RAT_F638L,TRPV1,Rattus norvegicus,F638L,functional,0,1
+TRPV1_RAT_H320R,TRPV1,Rattus norvegicus,H320R,functional,0,1
+TRPV1_RAT_M716V,TRPV1,Rattus norvegicus,M716V,less functional,1,1
+TRPV1_RAT_N687D,TRPV1,Rattus norvegicus,N687D,less functional,1,1
+TRPV1_RAT_V596A,TRPV1,Rattus norvegicus,V596A,less functional,1,1
+TRPV1_RAT_F640S,TRPV1,Rattus norvegicus,F640S,less functional,1,1
+TRPV1_RAT_L792P,TRPV1,Rattus norvegicus,L792P,functional,0,1
+TRPV1_RAT_E651V,TRPV1,Rattus norvegicus,E651V,less functional,1,1
+TRPV1_RAT_I209F,TRPV1,Rattus norvegicus,I209F,less functional,1,1
+TRPV1_RAT_V583D,TRPV1,Rattus norvegicus,V583D,less functional,1,1
+TRPV1_RAT_K504N,TRPV1,Rattus norvegicus,K504N,less functional,1,1
+TRPV1_RAT_C31Y,TRPV1,Rattus norvegicus,C31Y,less functional,1,1
+TRPV1_RAT_R86W,TRPV1,Rattus norvegicus,R86W,less functional,1,1
+TRPV1_RAT_L515P,TRPV1,Rattus norvegicus,L515P,less functional,1,1
+TRPV1_RAT_R44W,TRPV1,Rattus norvegicus,R44W,less functional,1,1
+TRPV1_RAT_V469A,TRPV1,Rattus norvegicus,V469A,functional,0,1
+TRPV1_RAT_K392N,TRPV1,Rattus norvegicus,K392N,functional,0,1
+TRPV1_RAT_I679T,TRPV1,Rattus norvegicus,I679T,less functional,1,1
+TRPV1_RAT_I705V,TRPV1,Rattus norvegicus,I705V,less functional,1,1
+TRPV1_RAT_G484V,TRPV1,Rattus norvegicus,G484V,less functional,1,1
+TRPV1_RAT_I446N,TRPV1,Rattus norvegicus,I446N,less functional,1,1
+TRPV1_RAT_Q123H,TRPV1,Rattus norvegicus,Q123H,functional,0,1
+TRPV1_RAT_D100Y,TRPV1,Rattus norvegicus,D100Y,less functional,1,1
+TRPV1_RAT_L773P,TRPV1,Rattus norvegicus,L773P,less functional,1,1
+TRPV1_RAT_I447T,TRPV1,Rattus norvegicus,I447T,functional,0,1
+TRPV1_RAT_K237E,TRPV1,Rattus norvegicus,K237E,less functional,1,1
+TRPV1_RAT_K431E,TRPV1,Rattus norvegicus,K431E,less functional,1,1
+TRPV1_RAT_C157R,TRPV1,Rattus norvegicus,C157R,less functional,1,1
+TRPV1_RAT_V538A,TRPV1,Rattus norvegicus,V538A,less functional,1,1
+TRPV1_RAT_S59Y,TRPV1,Rattus norvegicus,S59Y,less functional,1,1
+TRPV1_RAT_H39L,TRPV1,Rattus norvegicus,H39L,functional,0,1
+TRPV1_RAT_V475D,TRPV1,Rattus norvegicus,V475D,less functional,1,1
+TRPV1_RAT_I696T,TRPV1,Rattus norvegicus,I696T,less functional,1,1
+TRPV1_RAT_M682L,TRPV1,Rattus norvegicus,M682L,less functional,1,1
+TRPV1_RAT_N695I,TRPV1,Rattus norvegicus,N695I,less functional,1,1
+TRPV1_RAT_H166R,TRPV1,Rattus norvegicus,H166R,less functional,1,1
+TRPV1_RAT_I314V,TRPV1,Rattus norvegicus,I314V,less functional,1,1
+TRPV1_RAT_E692G,TRPV1,Rattus norvegicus,E692G,less functional,1,1
+TRPV1_RAT_K535N,TRPV1,Rattus norvegicus,K535N,less functional,1,1
+TRPV1_RAT_G88W,TRPV1,Rattus norvegicus,G88W,functional,0,1
+TRPV1_RAT_M547I,TRPV1,Rattus norvegicus,M547I,functional,0,1
+TRPV1_RAT_N765D,TRPV1,Rattus norvegicus,N765D,functional,0,1
+TRPV1_RAT_K710M,TRPV1,Rattus norvegicus,K710M,less functional,1,1
+TRPV1_RAT_R579Q,TRPV1,Rattus norvegicus,R579Q,less functional,1,1
+TRPV1_RAT_N652I,TRPV1,Rattus norvegicus,N652I,less functional,1,1
+TRPV1_RAT_N259I,TRPV1,Rattus norvegicus,N259I,less functional,1,1
+TRPV1_RAT_S481Y,TRPV1,Rattus norvegicus,S481Y,functional,0,1
+TRPV1_RAT_V415A,TRPV1,Rattus norvegicus,V415A,less functional,1,1
+TRPV1_RAT_M445K,TRPV1,Rattus norvegicus,M445K,less functional,1,1
+TRPV1_RAT_M1T,TRPV1,Rattus norvegicus,M1T,less functional,1,1
+TRPV1_RAT_T406S,TRPV1,Rattus norvegicus,T406S,less functional,1,1
+TRPV1_RAT_V475A,TRPV1,Rattus norvegicus,V475A,less functional,1,1
+TRPV1_RAT_M644T,TRPV1,Rattus norvegicus,M644T,less functional,1,1
+TRPV1_RAT_I346F,TRPV1,Rattus norvegicus,I346F,less functional,1,1
+TRPV1_RAT_S776P,TRPV1,Rattus norvegicus,S776P,less functional,1,1
+TRPV1_RAT_K37E,TRPV1,Rattus norvegicus,K37E,functional,0,1
+TRPV1_RAT_P407H,TRPV1,Rattus norvegicus,P407H,functional,0,1
+TRPV1_RAT_D62Y,TRPV1,Rattus norvegicus,D62Y,less functional,1,1
+TRPV1_RAT_G784V,TRPV1,Rattus norvegicus,G784V,functional,0,1
+TRPV1_RAT_K571E,TRPV1,Rattus norvegicus,K571E,less functional,1,1
+TRPV1_RAT_L814P,TRPV1,Rattus norvegicus,L814P,less functional,1,1
+TRPV1_RAT_G618W,TRPV1,Rattus norvegicus,G618W,functional,0,1
+TRPV1_RAT_F369L,TRPV1,Rattus norvegicus,F369L,functional,0,1
+TRPV1_RAT_H805R,TRPV1,Rattus norvegicus,H805R,less functional,1,1
+TRPV1_RAT_Y627H,TRPV1,Rattus norvegicus,Y627H,less functional,1,1
+TRPV1_RAT_E391G,TRPV1,Rattus norvegicus,E391G,less functional,1,1
+TRPV1_RAT_F582S,TRPV1,Rattus norvegicus,F582S,functional,0,1
+TRPV1_RAT_D26Y,TRPV1,Rattus norvegicus,D26Y,less functional,1,1
+TRPV1_RAT_K656E,TRPV1,Rattus norvegicus,K656E,less functional,1,1
+TRPV1_RAT_S619P,TRPV1,Rattus norvegicus,S619P,less functional,1,1
+TRPV1_RAT_S629G,TRPV1,Rattus norvegicus,S629G,less functional,1,1
+TRPV1_RAT_S592Y,TRPV1,Rattus norvegicus,S592Y,less functional,1,1
+TRPV1_RAT_N676D,TRPV1,Rattus norvegicus,N676D,less functional,1,1
+TRPV1_RAT_L574P,TRPV1,Rattus norvegicus,L574P,less functional,1,1
+TRPV1_RAT_D296V,TRPV1,Rattus norvegicus,D296V,less functional,1,1
+TRPV1_RAT_V121E,TRPV1,Rattus norvegicus,V121E,less functional,1,1
+TRPV1_RAT_P109Q,TRPV1,Rattus norvegicus,P109Q,functional,0,1
+TRPV1_RAT_F245S,TRPV1,Rattus norvegicus,F245S,less functional,1,1
+TRPV1_RAT_F490L,TRPV1,Rattus norvegicus,F490L,functional,0,1
+TRPV1_RAT_L647M,TRPV1,Rattus norvegicus,L647M,less functional,1,1
+TRPV1_RAT_F543L,TRPV1,Rattus norvegicus,F543L,functional,0,1
+TRPV1_RAT_V36D,TRPV1,Rattus norvegicus,V36D,functional,0,1
+TRPV1_RAT_V292E,TRPV1,Rattus norvegicus,V292E,less functional,1,1
+TRPV1_RAT_R115S,TRPV1,Rattus norvegicus,R115S,functional,0,1
+TRPV1_RAT_K622M,TRPV1,Rattus norvegicus,K622M,functional,0,1
+TRPV1_RAT_F720S,TRPV1,Rattus norvegicus,F720S,less functional,1,1
+TRPV1_RAT_V294A,TRPV1,Rattus norvegicus,V294A,less functional,1,1
+TRPV1_RAT_L588S,TRPV1,Rattus norvegicus,L588S,less functional,1,1
+TRPV1_RAT_K656R,TRPV1,Rattus norvegicus,K656R,less functional,1,1
+TRPV1_RAT_E249G,TRPV1,Rattus norvegicus,E249G,less functional,1,1
+TRPV1_RAT_M833I,TRPV1,Rattus norvegicus,M833I,functional,0,1
+TRPV1_RAT_N625S,TRPV1,Rattus norvegicus,N625S,less functional,1,1
+TRPV1_RAT_I569V,TRPV1,Rattus norvegicus,I569V,less functional,1,1
+TRPV1_RAT_F730L,TRPV1,Rattus norvegicus,F730L,functional,0,1
+TRPV1_RAT_K52N,TRPV1,Rattus norvegicus,K52N,functional,0,1
+TRPV1_RAT_M677V,TRPV1,Rattus norvegicus,M677V,less functional,1,1
+TRPV1_RAT_Q202L,TRPV1,Rattus norvegicus,Q202L,less functional,1,1
+TRPV1_RAT_L795P,TRPV1,Rattus norvegicus,L795P,less functional,1,1
+TRPV1_RAT_R115M,TRPV1,Rattus norvegicus,R115M,less functional,1,1
+TRPV1_RAT_D737Y,TRPV1,Rattus norvegicus,D737Y,functional,0,1
+TRPV1_RAT_P87L,TRPV1,Rattus norvegicus,P87L,functional,0,1
+TRPV1_RAT_R455Q,TRPV1,Rattus norvegicus,R455Q,less functional,1,1
+TRPV1_RAT_Y530H,TRPV1,Rattus norvegicus,Y530H,less functional,1,1
+TRPV1_RAT_K815R,TRPV1,Rattus norvegicus,K815R,less functional,1,1
+TRPV1_RAT_N125I,TRPV1,Rattus norvegicus,N125I,less functional,1,1
+TRPV1_RAT_K237N,TRPV1,Rattus norvegicus,K237N,less functional,1,1
+TRPV1_RAT_Y817C,TRPV1,Rattus norvegicus,Y817C,less functional,1,1
+TRPV1_RAT_T476A,TRPV1,Rattus norvegicus,T476A,less functional,1,1
+TRPV1_RAT_G729V,TRPV1,Rattus norvegicus,G729V,less functional,1,1
+TRPV1_RAT_N605S,TRPV1,Rattus norvegicus,N605S,less functional,1,1
+TRPV1_RAT_Y631H,TRPV1,Rattus norvegicus,Y631H,less functional,1,1
+TRPV1_RAT_S632Y,TRPV1,Rattus norvegicus,S632Y,functional,0,1
+TRPV1_RAT_C766Y,TRPV1,Rattus norvegicus,C766Y,less functional,1,1
+TRPV1_RAT_W740L,TRPV1,Rattus norvegicus,W740L,less functional,1,1
+TRPV1_RAT_N285I,TRPV1,Rattus norvegicus,N285I,less functional,1,1
+TRPV1_RAT_E837D,TRPV1,Rattus norvegicus,E837D,less functional,1,1
+TRPV1_RAT_F712L,TRPV1,Rattus norvegicus,F712L,less functional,1,1
+TRPV1_RAT_Q354R,TRPV1,Rattus norvegicus,Q354R,less functional,1,1
+TRPV1_RAT_Q498R,TRPV1,Rattus norvegicus,Q498R,functional,0,1
+TRPV1_RAT_D471G,TRPV1,Rattus norvegicus,D471G,less functional,1,1
+TRPV1_RAT_V756E,TRPV1,Rattus norvegicus,V756E,less functional,1,1
+TRPV1_RAT_P501Q,TRPV1,Rattus norvegicus,P501Q,functional,0,1
+TRPV1_RAT_G492V,TRPV1,Rattus norvegicus,G492V,less functional,1,1
+TRPV1_RAT_N604D,TRPV1,Rattus norvegicus,N604D,less functional,1,1
+TRPV1_RAT_Y472C,TRPV1,Rattus norvegicus,Y472C,functional,0,1
+TRPV1_RAT_F589S,TRPV1,Rattus norvegicus,F589S,less functional,1,1
+TRPV1_RAT_G602V,TRPV1,Rattus norvegicus,G602V,less functional,1,1
+TRPV1_RAT_D654G,TRPV1,Rattus norvegicus,D654G,less functional,1,1
+TRPV1_RAT_G347V,TRPV1,Rattus norvegicus,G347V,functional,0,1
+TRPV1_RAT_T731A,TRPV1,Rattus norvegicus,T731A,functional,0,1
+TRPV1_RAT_P794T,TRPV1,Rattus norvegicus,P794T,less functional,1,1
+TRPV1_RAT_P321H,TRPV1,Rattus norvegicus,P321H,functional,0,1
+TRPV1_RAT_V179A,TRPV1,Rattus norvegicus,V179A,less functional,1,1
+TRPV1_RAT_D178V,TRPV1,Rattus norvegicus,D178V,less functional,1,1
+TRPV1_RAT_E651G,TRPV1,Rattus norvegicus,E651G,less functional,1,1
+TRPV1_RAT_E361G,TRPV1,Rattus norvegicus,E361G,less functional,1,1
+TRPV1_RAT_N676S,TRPV1,Rattus norvegicus,N676S,less functional,1,1
+TRPV1_RAT_L460S,TRPV1,Rattus norvegicus,L460S,less functional,1,1
+TRPV1_RAT_L381I,TRPV1,Rattus norvegicus,L381I,functional,0,1
+TRPV1_RAT_R138S,TRPV1,Rattus norvegicus,R138S,functional,0,1
+TRPV1_RAT_G470V,TRPV1,Rattus norvegicus,G470V,functional,0,1
+TRPV1_RAT_L163P,TRPV1,Rattus norvegicus,L163P,less functional,1,1
+TRPV1_RAT_F829L,TRPV1,Rattus norvegicus,F829L,less functional,1,1
+TRPV1_RAT_L681I,TRPV1,Rattus norvegicus,L681I,functional,0,1
+TRPV1_RAT_I759V,TRPV1,Rattus norvegicus,I759V,less functional,1,1
+TRPV1_RAT_N437I,TRPV1,Rattus norvegicus,N437I,less functional,1,1
+TRPV1_RAT_K724E,TRPV1,Rattus norvegicus,K724E,less functional,1,1
+TRPV1_RAT_F659L,TRPV1,Rattus norvegicus,F659L,less functional,1,1
+TRPV1_RAT_E18D,TRPV1,Rattus norvegicus,E18D,functional,0,1
+TRPV1_RAT_N695D,TRPV1,Rattus norvegicus,N695D,less functional,1,1
+TRPV1_RAT_T83A,TRPV1,Rattus norvegicus,T83A,functional,0,1
+TRPV1_RAT_V217A,TRPV1,Rattus norvegicus,V217A,less functional,1,1
+TRPV1_RAT_D427Y,TRPV1,Rattus norvegicus,D427Y,less functional,1,1
+TRPV1_RAT_S783P,TRPV1,Rattus norvegicus,S783P,functional,0,1
+TRPV1_RAT_P29T,TRPV1,Rattus norvegicus,P29T,less functional,1,1
+TRPV1_RAT_L647P,TRPV1,Rattus norvegicus,L647P,less functional,1,1
+TRPV1_RAT_V348A,TRPV1,Rattus norvegicus,V348A,less functional,1,1
+TRPV1_RAT_E405D,TRPV1,Rattus norvegicus,E405D,less functional,1,1
+TRPV1_RAT_Q809H,TRPV1,Rattus norvegicus,Q809H,less functional,1,1
+TRPV1_RAT_S626P,TRPV1,Rattus norvegicus,S626P,less functional,1,1
+TRPV1_RAT_C616R,TRPV1,Rattus norvegicus,C616R,less functional,1,1
+TRPV1_RAT_L792M,TRPV1,Rattus norvegicus,L792M,functional,0,1
+TRPV1_RAT_N393I,TRPV1,Rattus norvegicus,N393I,less functional,1,1
+TRPV1_RAT_P16H,TRPV1,Rattus norvegicus,P16H,less functional,1,1
+TRPV1_RAT_I173N,TRPV1,Rattus norvegicus,I173N,less functional,1,1
+TRPV1_RAT_G470W,TRPV1,Rattus norvegicus,G470W,functional,0,1
+TRPV1_RAT_L681P,TRPV1,Rattus norvegicus,L681P,less functional,1,1
+TRPV1_RAT_F559L,TRPV1,Rattus norvegicus,F559L,less functional,1,1
+TRPV1_RAT_E416D,TRPV1,Rattus norvegicus,E416D,less functional,1,1
+TRPV1_RAT_N755K,TRPV1,Rattus norvegicus,N755K,less functional,1,1
+TRPV1_RAT_T329A,TRPV1,Rattus norvegicus,T329A,less functional,1,1
+TRPV1_RAT_M682V,TRPV1,Rattus norvegicus,M682V,less functional,1,1
+TRPV1_RAT_T258A,TRPV1,Rattus norvegicus,T258A,less functional,1,1
+TRPV1_RAT_Y584C,TRPV1,Rattus norvegicus,Y584C,less functional,1,1
+TRPV1_RAT_L497P,TRPV1,Rattus norvegicus,L497P,less functional,1,1
+TRPV1_RAT_K464R,TRPV1,Rattus norvegicus,K464R,functional,0,1
+TRPV1_RAT_P462H,TRPV1,Rattus norvegicus,P462H,functional,0,1
+TRPV1_RAT_I759T,TRPV1,Rattus norvegicus,I759T,less functional,1,1
+TRPV1_RAT_S93N,TRPV1,Rattus norvegicus,S93N,less functional,1,1
+TRPV1_RAT_I642F,TRPV1,Rattus norvegicus,I642F,less functional,1,1
+TRPV1_RAT_W749R,TRPV1,Rattus norvegicus,W749R,less functional,1,1
+TRPV1_RAT_N437L,TRPV1,Rattus norvegicus,N437L,less functional,1,1
+TRPV1_RAT_L553P,TRPV1,Rattus norvegicus,L553P,less functional,1,1
+TRPV1_RAT_S97P,TRPV1,Rattus norvegicus,S97P,less functional,1,1
+TRPV1_RAT_Q228H,TRPV1,Rattus norvegicus,Q228H,less functional,1,1
+TRPV1_RAT_Y65N,TRPV1,Rattus norvegicus,Y65N,less functional,1,1
+TRPV1_RAT_L607M,TRPV1,Rattus norvegicus,L607M,functional,0,1
+TRPV1_RAT_C390R,TRPV1,Rattus norvegicus,C390R,functional,0,1
+TRPV1_RAT_D733Y,TRPV1,Rattus norvegicus,D733Y,less functional,1,1
+TRPV1_RAT_K392R,TRPV1,Rattus norvegicus,K392R,less functional,1,1
+TRPV1_RAT_L460M,TRPV1,Rattus norvegicus,L460M,functional,0,1
+TRPV1_RAT_S532G,TRPV1,Rattus norvegicus,S532G,less functional,1,1
+TRPV1_RAT_A806T,TRPV1,Rattus norvegicus,A806T,less functional,1,1
+TRPV1_RAT_M644I,TRPV1,Rattus norvegicus,M644I,functional,0,1
+TRPV1_RAT_N393S,TRPV1,Rattus norvegicus,N393S,less functional,1,1
+TRPV1_RAT_T597S,TRPV1,Rattus norvegicus,T597S,less functional,1,1
+TRPV1_RAT_E827V,TRPV1,Rattus norvegicus,E827V,functional,0,1
+TRPV1_RAT_E10G,TRPV1,Rattus norvegicus,E10G,less functional,1,1
+TRPV1_RAT_L713Q,TRPV1,Rattus norvegicus,L713Q,less functional,1,1
+TRPV1_RAT_L158Q,TRPV1,Rattus norvegicus,L158Q,less functional,1,1
+TRPV1_RAT_T389S,TRPV1,Rattus norvegicus,T389S,functional,0,1
+TRPV1_RAT_G602W,TRPV1,Rattus norvegicus,G602W,functional,0,1
+TRPV1_RAT_I660V,TRPV1,Rattus norvegicus,I660V,functional,0,1
+TRPV1_RAT_L205Q,TRPV1,Rattus norvegicus,L205Q,less functional,1,1
+TRPV1_RAT_T597A,TRPV1,Rattus norvegicus,T597A,less functional,1,1
+TRPV1_RAT_E767V,TRPV1,Rattus norvegicus,E767V,functional,0,1
+TRPV1_RAT_L176P,TRPV1,Rattus norvegicus,L176P,less functional,1,1
+TRPV1_RAT_L675H,TRPV1,Rattus norvegicus,L675H,less functional,1,1
+TRPV1_RAT_L663S,TRPV1,Rattus norvegicus,L663S,less functional,1,1
+TRPV1_RAT_N760D,TRPV1,Rattus norvegicus,N760D,less functional,1,1

@@ -1,0 +1,12 @@
+name,protein,species,variant,endpoint,target_celsius
+TRPV1_AXOLOTL_Q128R_E164A,TRPV1,Ambystoma mexicanum,Q128R/E164A,onset,33.05335833333333
+TRPV1_AXOLOTL_Q128W,TRPV1,Ambystoma mexicanum,Q128W,onset,33.168989374999995
+TRPV1_AXOLOTL_Q128R__ONSET_R000023,TRPV1,Ambystoma mexicanum,Q128R,onset,36.23789375
+TRPV1_RAT_wild__ONSET_R000121,TRPV1,Rattus norvegicus,wild type,onset,40.9
+TRPV1_AXOLOTL_Q128D,TRPV1,Ambystoma mexicanum,Q128D,onset,25.37035375
+TRPV1_RAT_wild__ONSET_R000012,TRPV1,Rattus norvegicus,wild type,onset,43.176888696000006
+TRPV1_FRUITBAT_wild,TRPV1,Carollia brevicauda,wild type,onset,40.2
+TRPV1_AXOLOTL_Q128A,TRPV1,Ambystoma mexicanum,Q128A,onset,31.884791250000003
+TRPV1_AXOLOTL_wild__ONSET_R000033,TRPV1,Ambystoma mexicanum,wild type,onset,31.4762334375
+TRPV1_RAT_wild__ONSET_R000060,TRPV1,Rattus norvegicus,wild type,onset,41.5
+TRPV1_AXOLOTL_L154N,TRPV1,Ambystoma mexicanum,L154N,onset,38.115869374999996

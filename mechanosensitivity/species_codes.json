@@ -1,0 +1,9 @@
+{
+  "HUMAN": "Homo sapiens",
+  "RAT": "Rattus norvegicus",
+  "MOUSE": "Mus musculus",
+  "ECOLI": "Escherichia coli",
+  "ARATH": "Arabidopsis thaliana",
+  "DROME": "Drosophila melanogaster",
+  "YEAST": "Saccharomyces cerevisiae"
+}

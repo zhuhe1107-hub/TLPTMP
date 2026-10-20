@@ -1,0 +1,4 @@
+# Preserve artifact checksums across Windows/Linux checkouts.
+* -text
+*.npy binary
+*.joblib binary

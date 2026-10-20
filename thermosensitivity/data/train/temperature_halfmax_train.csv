@@ -1,0 +1,9 @@
+name,protein,species,variant,endpoint,target_celsius
+TRPV1_RAT_N628K,TRPV1,Rattus norvegicus,N628K,halfmax,48.3
+TRPV1_AXOLOTL_wild__HALFMAX_R000002,TRPV1,Ambystoma mexicanum,wild type,halfmax,35.75
+TRPV1_RAT_N628K_N652T_Y653T,TRPV1,Rattus norvegicus,N628K/N652T/Y653T,halfmax,51
+TRPV1_RAT_wild__HALFMAX_R000018,TRPV1,Rattus norvegicus,wild type,halfmax,51.6
+TRPV1_JAPANESE_CLAWED_SAL_wild__HALFMAX_R000004,TRPV1,Onychodactylus japonicus,wild type,halfmax,34.52
+TRPV1_IBERIAN_NEWT_wild__HALFMAX_R000003,TRPV1,Pleurodeles waltl,wild type,halfmax,37.48
+TRPV1_RAT_N652T_Y653T,TRPV1,Rattus norvegicus,N652T/Y653T,halfmax,48.9
+TRPV1_RAT_wild__HALFMAX_R000006,TRPV1,Rattus norvegicus,wild type,halfmax,43.8

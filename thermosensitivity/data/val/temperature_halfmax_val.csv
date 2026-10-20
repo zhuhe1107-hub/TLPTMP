@@ -1,0 +1,4 @@
+name,protein,species,variant,endpoint,target_celsius
+TRPV1_RAT_Y653T,TRPV1,Rattus norvegicus,Y653T,halfmax,47.2
+TRPV1_YAMATO_SAL_wild__HALFMAX_R000005,TRPV1,Hynobius vandenburghi,wild type,halfmax,39.17
+TRPV1_RAT_N652T,TRPV1,Rattus norvegicus,N652T,halfmax,47.9

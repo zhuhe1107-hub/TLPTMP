@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "model_file": "svc_pca.joblib",
+  "model_sha256": "340897aafed754c03561634598df9746eaed1c9ff3c7bb7623a9b2b92b3025a5",
+  "classes": [
+    "less",
+    "more",
+    "WT-like"
+  ],
+  "feature_dim": 3840,
+  "prediction_rule": "native_pipeline_predict",
+  "config": {
+    "pca_components": 20,
+    "C": 3.0,
+    "gamma": "auto",
+    "more_weight_multiplier": 1.25,
+    "random_state": 42
+  },
+  "standardization": false,
+  "kernel": "rbf",
+  "pca_whiten": false,
+  "probability": false,
+  "versions": {
+    "python": "3.9.25",
+    "numpy": "2.0.2",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.6.1",
+    "joblib": "1.5.3"
+  }
+}
